@@ -2,6 +2,10 @@
 
 <p align="center">An AI-powered browser automation server implementing Model Context Protocol (MCP) for natural language browser control and web research.</p>
 
+<a href="https://glama.ai/mcp/servers/@302ai/302_browser_use_mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@302ai/302_browser_use_mcp/badge" alt="302AI BrowserUse Server MCP server" />
+</a>
+
 <p align="center"><a href="https://www.npmjs.com/package/@302ai/browser-use-mcp" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
