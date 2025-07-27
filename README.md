@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/302ai-302-browser-use-mcp-badge.png)](https://mseep.ai/app/302ai-302-browser-use-mcp)
+
 # <p align="center">🤖 302AI BrowserUse MCP Server🚀✨</p>
 
 <p align="center">An AI-powered browser automation server implementing Model Context Protocol (MCP) for natural language browser control and web research.</p>
